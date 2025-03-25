@@ -1,4 +1,13 @@
 <p align="center">
+  <img src="/images/stairlight-logo.png" alt="StairLight" title="StairLight"><br>
+  <b>Custom WLED build for StairLight project with an ESP32 over WiFi.</b><br>
+  Make your staircase look cool by illuminating it with animations.<br>
+</p>
+
+<br><br><br><br><br><br>
+# BASED ON WLED - Build 2410270
+
+<p align="center">
   <img src="/images/wled_logo_akemi.png">
   <a href="https://github.com/wled-dev/WLED/releases"><img src="https://img.shields.io/github/release/wled-dev/WLED.svg?style=flat-square"></a>
   <a href="https://raw.githubusercontent.com/wled-dev/WLED/main/LICENSE"><img src="https://img.shields.io/github/license/wled-dev/wled?color=blue&style=flat-square"></a>
