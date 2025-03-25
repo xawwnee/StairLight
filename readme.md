@@ -1,3 +1,4 @@
+<br><br><br><br><br><br>
 <p align="center">
   <img src="/images/stairlight-logo.png" alt="StairLight" title="StairLight"><br>
   <b>Custom WLED build for StairLight project with an ESP32 over WiFi.</b><br>
