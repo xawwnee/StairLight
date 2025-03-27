@@ -1,8 +1,8 @@
 <br><br><br><br><br><br>
 <p align="center">
   <img src="/images/stairlight-logo.png" alt="StairLight" title="StairLight"><br>
-  <b>Custom WLED build for StairLight project with an ESP32 over WiFi.</b><br>
-  Make your staircase look cool by illuminating it with animations.<br>
+  <b>Make your staircase look cool by illuminating it with animations.</b><br>
+  Custom WLED build for StairLight project with an ESP32 over WiFi.<br>
 </p>
 
 <br><br><br><br><br><br>
